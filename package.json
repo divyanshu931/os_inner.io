@@ -2,6 +2,7 @@
   "name": "portfolio-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://divos.divyanshutomar.tech",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
@@ -48,7 +49,6 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://divyanshu931.github.io/os_inner.io",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
