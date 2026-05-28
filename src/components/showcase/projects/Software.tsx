@@ -24,18 +24,17 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
             <ResumeDownload />
             <br />
             <div className="text-block">
-                <h2>henryheffernan.com</h2>
+                <h2>divyanshutomar.tech</h2>
                 <br />
                 <p>
-                    henryheffernan.com is my portfolio website, and also the
-                    website you are on right now. This project was an absolute
-                    joy to make and challenged me both technically and
-                    creatively. Early in 2022, I knew I wanted to make an
-                    interactive portfolio to aid my job search. I eventually got
-                    the idea for this site around early February and began
-                    development early March. I've been developing it alongside
-                    my last semester at school and if you are reading this, it's
-                    pretty much done!
+                    divyanshutomar.tech is my portfolio website, and also the
+                    website you are on right now. This project was built using a 
+                    template created by Henry Heffernan (henryheffernan.com). 
+                    I customized and adapted the template to create my own unique 
+                    portfolio experience. The template provided an excellent foundation 
+                    with its innovative OS-inspired design and 3D elements, which I 
+                    further developed and personalized with my own content and styling. 
+                    I completed this project while balancing my MCA studies and freelance work.
                 </p>
                 <br />
                 <div className="captioned-image">
@@ -57,7 +56,7 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://henryheffernan.vercel.app/"
+                        href="https://divyanshutomar.tech/"
                     >
                         here
                     </a>{' '}
@@ -73,59 +72,27 @@ const SoftwareProjects: React.FC<SoftwareProjectsProps> = (props) => {
                         <a
                             rel="noreferrer"
                             target="_blank"
-                            href="https://henryheffernan.com"
+                            href="https://divyanshutomar.tech"
                         >
                             <p>
-                                <b>[3D Site]</b> - henryheffernan.com
+                                <b>[Live Site]</b> - divyanshutomar.tech
                             </p>
                         </a>
                     </li>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://henryheffernan.vercel.app/"
-                        >
-                            <p>
-                                <b>[OS Site]</b> - henryheffernan.vercel.app
-                            </p>
-                        </a>
-                    </li>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://github.com/henryjeff/portfolio-website"
-                        >
-                            <p>
-                                <b>[GitHub]</b> - 3D Site Repository
-                            </p>
-                        </a>
-                    </li>
-                    <li>
-                        <a
-                            rel="noreferrer"
-                            target="_blank"
-                            href="https://github.com/henryjeff/portfolio-inner-site"
-                        >
-                            <p>
-                                <b>[GitHub]</b> - OS Site Repository
-                            </p>
-                        </a>
-                    </li>
+                  
                 </ul>
                 <p>
-                    I'm skipping over a lot of details in exchange for brevity,
-                    but I do plan on doing a more in depth breakdown for those
-                    interested sometime in the future. To get updates with that
-                    project feel free to follow me on twitter{' '}
+                    Special thanks to Henry Heffernan for creating the original portfolio template
+                    with such a cool and innovative OS-inspired style. I adapted this template
+                    to create my own unique portfolio. Check out his original work at{' '}
                     <a
                         rel="noreferrer"
                         target="_blank"
-                        href="https://twitter.com/henryheffernan"
+                        href="https://henryheffernan.com"
                     >
-                        @henryheffernan
+                        henryheffernan.com
                     </a>
+                    .
                 </p>
             </div>
             <div className="text-block">
