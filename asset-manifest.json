@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/os_inner.io/static/css/main.dded9402.css",
+    "main.js": "/os_inner.io/static/js/main.63644ca6.js",
+    "static/js/787.749b4a44.chunk.js": "/os_inner.io/static/js/787.749b4a44.chunk.js",
+    "static/media/house_master.mp3": "/os_inner.io/static/media/house_master.c7658602090fa4de7901.mp3",
+    "static/media/saga.mp4": "/os_inner.io/static/media/saga.64fb7e405cdad323c668.mp4",
+    "static/media/edge_unmastered.mp3": "/os_inner.io/static/media/edge_unmastered.5fda28a397a77f0cd67d.mp3",
+    "static/media/break.mp3": "/os_inner.io/static/media/break.ca994a82925ac512580d.mp3",
+    "static/media/dnb_drop_drums.mp3": "/os_inner.io/static/media/dnb_drop_drums.24751dc8ad05058a701a.mp3",
+    "static/media/scroll.mp4": "/os_inner.io/static/media/scroll.c813ed50d6d7bb41417a.mp4",
+    "static/media/computer.mp4": "/os_inner.io/static/media/computer.f6d03fdb3cc6238c1dd0.mp4",
+    "static/media/MSSansSerif.ttf": "/os_inner.io/static/media/MSSansSerif.aa14e7b110864a3c2e08.ttf",
+    "static/media/houseProject.png": "/os_inner.io/static/media/houseProject.fdb8b40ccf0bed8a6554.png",
+    "static/media/workingAtComputer.jpg": "/os_inner.io/static/media/workingAtComputer.f964cf4109fc718e99c3.jpg",
+    "static/media/dnbDrumsProject.png": "/os_inner.io/static/media/dnbDrumsProject.c9dace015fac3b0a06af.png",
+    "static/media/Divyanshu.pdf": "/os_inner.io/static/media/Divyanshu.36524b1cc58449c54ec9.pdf",
+    "static/media/currentme.jpg": "/os_inner.io/static/media/currentme.40eaa648bcf71102964b.jpg",
+    "static/media/ee.jpg": "/os_inner.io/static/media/ee.7656e3a317181c8a39b1.jpg",
+    "static/media/Terminal.ttf": "/os_inner.io/static/media/Terminal.6a1b7290048681921b2c.ttf",
+    "static/media/neverGiveUp.jpg": "/os_inner.io/static/media/neverGiveUp.c9ee4e48677de77065a9.jpg",
+    "static/media/Millennium.ttf": "/os_inner.io/static/media/Millennium.e16d74a8e8e0567ce30e.ttf",
+    "static/media/Millennium-Bold.ttf": "/os_inner.io/static/media/Millennium-Bold.cd5e3be832ebd008c852.ttf",
+    "index.html": "/os_inner.io/index.html",
+    "main.dded9402.css.map": "/os_inner.io/static/css/main.dded9402.css.map",
+    "main.63644ca6.js.map": "/os_inner.io/static/js/main.63644ca6.js.map",
+    "787.749b4a44.chunk.js.map": "/os_inner.io/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dded9402.css",
+    "static/js/main.63644ca6.js"
+  ]
+}
