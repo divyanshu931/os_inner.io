@@ -24,17 +24,7 @@ This is a retro OS-inspired portfolio website built with React and TypeScript. I
 
 I customized and adapted this template to create my own portfolio while maintaining the cool retro OS design.
 
-## 👨‍💼 About Me
 
-I'm a Software Engineer with:
-- **Current Role:** Recently graduated with MCA (Master of Computer Applications) from Amity University (May 2026)
-- **Education:** BCA from GGSIPU (Guru Gobind Singh Indraprastha University)
-- **Experience:** 
-  - System Engineer Trainee at Cisco (Nov 2024 - Nov 2025)
-  - Worked on Cisco IOS XR AppMgr and Sandbox components
-  - Part-time Freelancer (Feb 2026 - May 2026)
-  - Built enterprise accounting and inventory management systems
-- **Interests:** Finance Technology (FinTech), enterprise software, system engineering
 
 ## 🛠 Technologies Used
 
