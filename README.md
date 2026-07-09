@@ -1,6 +1,6 @@
 # Divyanshu Tomar - Portfolio Website
 
-A creative and interactive portfolio website showcasing my work as a Software Engineer with experience in system engineering, fintech, and full-stack development.
+A creative and interactive portfolio website showcasing my work as a Software Engineer with experience in system engineering.
 
 ## 🌐 Live Demo
 
